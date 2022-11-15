@@ -1,0 +1,9 @@
+Documentation of bank project
+	- what is the project
+	- explain flow of system
+	- project modules and their use
+	- technologies used 
+	- needs to allow reader to understand how the system works
+	- break down code
+	- include entire code at the end 
+	- include database tables at end
